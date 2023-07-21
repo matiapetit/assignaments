@@ -1,0 +1,17 @@
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.csproj.AssemblyReference.cache
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.Form1.resources
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.csproj.GenerateResource.cache
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.AssemblyInfoInputs.cache
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.AssemblyInfo.cs
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.csproj.CoreCompileInputs.cache
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\bin\Debug\net6.0-windows\SommatoreNumeriDispari.exe
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\bin\Debug\net6.0-windows\SommatoreNumeriDispari.deps.json
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\bin\Debug\net6.0-windows\SommatoreNumeriDispari.runtimeconfig.json
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\bin\Debug\net6.0-windows\SommatoreNumeriDispari.dll
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\bin\Debug\net6.0-windows\SommatoreNumeriDispari.pdb
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.dll
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\refint\SommatoreNumeriDispari.dll
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.pdb
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\SommatoreNumeriDispari.genruntimeconfig.cache
+C:\Users\Mattia\Desktop\esercizi\esercizio_1\SommatoreNumeriDispari\obj\Debug\net6.0-windows\ref\SommatoreNumeriDispari.dll

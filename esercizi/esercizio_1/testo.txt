@@ -1,0 +1,3 @@
+[esercizio 1]
+
+Calcolare la somma dei numeri dispari fino ad un determinato numero inserito dall'utente
