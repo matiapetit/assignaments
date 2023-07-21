@@ -1,0 +1,3 @@
+[exercise 1]
+
+Calculate the sum of odd numbers up to a certain number entered by the user
