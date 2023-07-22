@@ -1,0 +1,15 @@
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\bin\Debug\net6.0\FindPrimeNumbers.exe
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\bin\Debug\net6.0\FindPrimeNumbers.deps.json
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\bin\Debug\net6.0\FindPrimeNumbers.runtimeconfig.json
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\bin\Debug\net6.0\FindPrimeNumbers.dll
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\bin\Debug\net6.0\FindPrimeNumbers.pdb
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.AssemblyInfo.cs
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.dll
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\refint\FindPrimeNumbers.dll
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.pdb
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\FindPrimeNumbers.genruntimeconfig.cache
+C:\Users\Mattia\Documents\GitHub\assignaments\esercizi\es2\FindPrimeNumbers\obj\Debug\net6.0\ref\FindPrimeNumbers.dll
